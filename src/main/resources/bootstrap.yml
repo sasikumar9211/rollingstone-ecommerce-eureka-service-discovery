@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: rollingstaone-eureka-serivce-discovery
